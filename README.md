@@ -7,7 +7,7 @@
 
 ## 1. Clone the repository:
 
-- git clone 
+- git clone https://github.com/GaneshNair05/Project-vendor.git
 - cd "project-name"
 
 ## 2.Create a virtual environment:
